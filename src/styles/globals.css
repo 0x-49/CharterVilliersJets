@@ -1,0 +1,264 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    border: var(--border);
+  }
+  body {
+    background: var(--background); color: var(--foreground);
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+  :root {
+    --brand: 210 100% 50%;
+    --brand-foreground: 213 100% 60%;
+  }
+  .dark {
+    --brand: 213 100% 60%;
+    --brand-foreground: 210 100% 50%;
+  }
+}
+
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Montserrat:wght@300;400;500;600;700&display=swap');
+
+/* Root Variables */
+:root {
+  /* Premium aviation color palette - Enhanced contrast */
+  --background: 220 45% 98%;
+  --foreground: 220 45% 15%;
+  --card: 0 0% 100%;
+  --card-foreground: 220 45% 15%;
+  --popover: 0 0% 100%;
+  --popover-foreground: 220 45% 15%;
+  --primary: 220 45% 15%;
+  --primary-foreground: 220 45% 98%;
+  --secondary: 210 30% 25%;
+  --secondary-foreground: 220 45% 98%;
+  --muted: 220 20% 90%;
+  --muted-foreground: 220 20% 35%;
+  --accent: 38 65% 52%;  /* Brighter gold */
+  --accent-foreground: 220 45% 98%;
+  --destructive: 0 85% 60%;
+  --destructive-foreground: 42 45% 98%;
+  --border: 220 20% 80%;
+  --input: 220 20% 80%;
+  --ring: 38 65% 52%;
+  
+  /* Custom colors - Enhanced contrast */
+  --gold: 38 65% 52%;    /* Brighter gold */
+  --deep-navy: 220 60% 15%;  /* Darker navy */
+  --sky-blue: 200 85% 65%;   /* Brighter blue */
+  --cloud-white: 0 0% 98%;
+  --metal-gray: 220 15% 25%;
+}
+
+/* Dark Mode */
+.dark {
+  --background: 220 45% 5%; /* Darker background for better contrast */
+  --foreground: 220 45% 98%;
+  --card: 220 45% 10%; /* Darker cards */
+  --card-foreground: 220 45% 98%;
+  --popover: 220 45% 10%;
+  --popover-foreground: 220 45% 98%;
+  --primary: 38 65% 52%; /* Gold as primary color for CTAs */
+  --primary-foreground: 220 45% 5%; /* Dark text on gold */
+  --secondary: 200 85% 65%; /* Sky blue for secondary elements */
+  --secondary-foreground: 220 45% 5%;
+  --muted: 220 20% 15%;
+  --muted-foreground: 220 20% 85%;
+  --accent: 200 85% 65%; /* Sky blue for accents */
+  --accent-foreground: 220 45% 5%;
+  --destructive: 0 85% 60%;
+  --destructive-foreground: 220 45% 98%;
+  --border: 220 45% 20%; /* More visible borders */
+  --input: 220 45% 20%;
+  --ring: 38 65% 52%; /* Gold focus rings */
+  
+  /* Enhanced contrast for logos */
+  --logo-primary: 38 65% 52%; /* Gold */
+  --logo-secondary: 200 85% 65%; /* Sky blue */
+}
+
+/* Enhanced Gradients */
+.gradient-bg {
+  background: linear-gradient(135deg, 
+    hsl(220 60% 15%), /* Darker navy */
+    hsl(200 85% 65%)  /* Brighter blue */
+  );
+}
+
+.text-gradient {
+  background: linear-gradient(135deg, 
+    hsl(38 65% 52%),  /* Brighter gold */
+    hsl(200 85% 65%)  /* Brighter blue */
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+.aviation-gradient {
+  background: linear-gradient(135deg, 
+    hsl(220 60% 15%),  /* Darker navy */
+    hsl(200 85% 65%),  /* Brighter blue */
+    hsl(38 65% 52%)    /* Brighter gold */
+  );
+}
+
+.metal-effect {
+  background: linear-gradient(145deg,
+    hsl(220 15% 25% / 0.9),
+    hsl(220 15% 25% / 0.7)
+  );
+  box-shadow: 0 4px 6px -1px hsl(220 60% 15% / 0.1),
+              0 2px 4px -2px hsl(220 60% 15% / 0.1);
+}
+
+/* Enhanced Card Styles */
+.card-hover {
+  transition: all 400ms cubic-bezier(0.4, 0, 0.2, 1);
+  border: 1px solid hsl(var(--border));
+}
+
+.card-hover:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 24px -8px hsl(var(--deep-navy) / 0.2);
+  border-color: hsl(var(--gold));
+}
+
+/* Premium Border */
+.premium-border {
+  border: 2px solid hsl(var(--gold));
+}
+
+/* Logo Styling */
+.logo-container {
+  filter: drop-shadow(0 2px 4px hsl(var(--background) / 0.2));
+}
+
+.logo-container img {
+  transition: filter 300ms;
+}
+
+.dark .logo-container img {
+  filter: brightness(1.2) contrast(1.2);
+}
+
+/* Glass Effect */
+.glass-effect {
+  background: linear-gradient(135deg,
+    hsl(var(--background) / 0.9),
+    hsl(var(--background) / 0.7)
+  );
+  backdrop-filter: blur(8px);
+}
+
+/* Premium Background */
+.premium-bg {
+  background-color: hsl(var(--gold) / 0.1);
+}
+
+/* Enhanced Typography */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  line-height: 1.2;
+}
+
+h1 {
+  font-size: 3.5rem;
+  font-size: 7rem;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-size: 5rem;
+}
+
+.text-lg {
+  font-size: 1.125rem;
+  line-height: 1.75;
+}
+
+.text-xl {
+  font-size: 1.25rem;
+  line-height: 1.75;
+}
+
+.text-2xl {
+  font-size: 1.5rem;
+  line-height: 1.75;
+}
+
+/* Enhanced Button Styles */
+.btn-primary {
+  background-color: hsl(var(--primary));
+  color: hsl(var(--primary-foreground));
+  font-weight: 600;
+  font-size: 1.125rem;
+  padding: 12px 24px;
+  border-radius: 0.5rem;
+  transition: all 300ms;
+  box-shadow: 0 4px 6px -1px hsl(var(--primary) / 0.2),
+             0 2px 4px -2px hsl(var(--primary) / 0.2);
+}
+
+.btn-primary:hover {
+  background-color: hsl(var(--primary) / 0.9);
+  transform: translateY(-1px);
+  box-shadow: 0 10px 15px -3px hsl(var(--primary) / 0.3),
+             0 4px 6px -4px hsl(var(--primary) / 0.3);
+}
+
+.btn-outline {
+  border: 2px solid hsl(var(--primary));
+  color: hsl(var(--primary));
+  background-color: transparent;
+  font-weight: 600;
+  font-size: 1.125rem;
+  padding: 12px 24px;
+  border-radius: 0.5rem;
+  transition: all 300ms;
+}
+
+.btn-outline:hover {
+  background-color: hsl(var(--primary) / 0.1);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 6px -1px hsl(var(--primary) / 0.1),
+             0 2px 4px -2px hsl(var(--primary) / 0.1);
+}
+
+/* New CTA button style */
+.btn-cta {
+  background: linear-gradient(145deg,
+    hsl(var(--primary)),
+    hsl(var(--accent))
+  );
+  color: hsl(var(--primary-foreground));
+  font-weight: 700;
+  font-size: 1.25rem;
+  padding: 16px 32px;
+  border-radius: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  transition: all 300ms;
+  box-shadow: 0 4px 6px -1px hsl(var(--primary) / 0.2),
+             0 2px 4px -2px hsl(var(--primary) / 0.2);
+}
+
+.btn-cta:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 15px -3px hsl(var(--primary) / 0.3),
+             0 4px 6px -4px hsl(var(--primary) / 0.3);
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
