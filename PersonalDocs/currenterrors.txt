@@ -1,0 +1,4659 @@
+[{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17014",
+	"severity": 8,
+	"message": "JSX fragment has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 38,
+	"startColumn": 11,
+	"endLineNumber": 39,
+	"endColumn": 7
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'main' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 47,
+	"startColumn": 8,
+	"endLineNumber": 47,
+	"endColumn": 12
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'section' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 49,
+	"startColumn": 10,
+	"endLineNumber": 49,
+	"endColumn": 17
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'div' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 53,
+	"startColumn": 12,
+	"endLineNumber": 53,
+	"endColumn": 15
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'motion.div' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 54,
+	"startColumn": 14,
+	"endLineNumber": 54,
+	"endColumn": 24
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'div' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 80,
+	"startColumn": 16,
+	"endLineNumber": 80,
+	"endColumn": 19
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 115,
+	"startColumn": 10,
+	"endLineNumber": 115,
+	"endColumn": 14,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 115,
+	"startColumn": 10,
+	"endLineNumber": 115,
+	"endColumn": 26,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 115,
+	"startColumn": 10,
+	"endLineNumber": 115,
+	"endColumn": 37,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 115,
+	"startColumn": 10,
+	"endLineNumber": 115,
+	"endColumn": 54,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 115,
+	"startColumn": 10,
+	"endLineNumber": 115,
+	"endColumn": 67,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 117,
+	"startColumn": 10,
+	"endLineNumber": 117,
+	"endColumn": 19,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 117,
+	"startColumn": 10,
+	"endLineNumber": 117,
+	"endColumn": 37,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 118,
+	"startColumn": 10,
+	"endLineNumber": 118,
+	"endColumn": 15,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 118,
+	"startColumn": 10,
+	"endLineNumber": 118,
+	"endColumn": 28,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 118,
+	"startColumn": 10,
+	"endLineNumber": 118,
+	"endColumn": 38,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 118,
+	"startColumn": 10,
+	"endLineNumber": 118,
+	"endColumn": 49,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 118,
+	"startColumn": 10,
+	"endLineNumber": 118,
+	"endColumn": 60,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 119,
+	"startColumn": 10,
+	"endLineNumber": 119,
+	"endColumn": 14,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 119,
+	"startColumn": 10,
+	"endLineNumber": 119,
+	"endColumn": 24,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 119,
+	"startColumn": 10,
+	"endLineNumber": 119,
+	"endColumn": 37,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "'}' expected.",
+	"source": "ts",
+	"startLineNumber": 125,
+	"startColumn": 13,
+	"endLineNumber": 125,
+	"endColumn": 14
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "'}' expected.",
+	"source": "ts",
+	"startLineNumber": 132,
+	"startColumn": 12,
+	"endLineNumber": 132,
+	"endColumn": 13
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1381",
+	"severity": 8,
+	"message": "Unexpected token. Did you mean `{'}'}` or `&rbrace;`?",
+	"source": "ts",
+	"startLineNumber": 137,
+	"startColumn": 3,
+	"endLineNumber": 137,
+	"endColumn": 4
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "'}' expected.",
+	"source": "ts",
+	"startLineNumber": 139,
+	"startColumn": 12,
+	"endLineNumber": 139,
+	"endColumn": 13
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1381",
+	"severity": 8,
+	"message": "Unexpected token. Did you mean `{'}'}` or `&rbrace;`?",
+	"source": "ts",
+	"startLineNumber": 142,
+	"startColumn": 3,
+	"endLineNumber": 142,
+	"endColumn": 4
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1381",
+	"severity": 8,
+	"message": "Unexpected token. Did you mean `{'}'}` or `&rbrace;`?",
+	"source": "ts",
+	"startLineNumber": 143,
+	"startColumn": 1,
+	"endLineNumber": 143,
+	"endColumn": 2
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1109",
+	"severity": 8,
+	"message": "Expression expected.",
+	"source": "ts",
+	"startLineNumber": 146,
+	"startColumn": 3,
+	"endLineNumber": 146,
+	"endColumn": 9
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17014",
+	"severity": 8,
+	"message": "JSX fragment has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 147,
+	"startColumn": 5,
+	"endLineNumber": 147,
+	"endColumn": 7
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'main' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 155,
+	"startColumn": 8,
+	"endLineNumber": 155,
+	"endColumn": 12
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'section' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 157,
+	"startColumn": 10,
+	"endLineNumber": 157,
+	"endColumn": 17
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'div' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 161,
+	"startColumn": 12,
+	"endLineNumber": 161,
+	"endColumn": 15
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'motion.div' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 162,
+	"startColumn": 14,
+	"endLineNumber": 162,
+	"endColumn": 24
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 224,
+	"startColumn": 10,
+	"endLineNumber": 224,
+	"endColumn": 14,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 224,
+	"startColumn": 10,
+	"endLineNumber": 224,
+	"endColumn": 26,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 224,
+	"startColumn": 10,
+	"endLineNumber": 224,
+	"endColumn": 37,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 224,
+	"startColumn": 10,
+	"endLineNumber": 224,
+	"endColumn": 54,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 224,
+	"startColumn": 10,
+	"endLineNumber": 224,
+	"endColumn": 67,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 226,
+	"startColumn": 10,
+	"endLineNumber": 226,
+	"endColumn": 19,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 226,
+	"startColumn": 10,
+	"endLineNumber": 226,
+	"endColumn": 37,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 227,
+	"startColumn": 10,
+	"endLineNumber": 227,
+	"endColumn": 15,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 227,
+	"startColumn": 10,
+	"endLineNumber": 227,
+	"endColumn": 28,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 227,
+	"startColumn": 10,
+	"endLineNumber": 227,
+	"endColumn": 38,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 227,
+	"startColumn": 10,
+	"endLineNumber": 227,
+	"endColumn": 49,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 227,
+	"startColumn": 10,
+	"endLineNumber": 227,
+	"endColumn": 60,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 228,
+	"startColumn": 10,
+	"endLineNumber": 228,
+	"endColumn": 14,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 228,
+	"startColumn": 10,
+	"endLineNumber": 228,
+	"endColumn": 24,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 228,
+	"startColumn": 10,
+	"endLineNumber": 228,
+	"endColumn": 37,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "'}' expected.",
+	"source": "ts",
+	"startLineNumber": 234,
+	"startColumn": 13,
+	"endLineNumber": 234,
+	"endColumn": 14
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "'}' expected.",
+	"source": "ts",
+	"startLineNumber": 241,
+	"startColumn": 12,
+	"endLineNumber": 241,
+	"endColumn": 13
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1381",
+	"severity": 8,
+	"message": "Unexpected token. Did you mean `{'}'}` or `&rbrace;`?",
+	"source": "ts",
+	"startLineNumber": 246,
+	"startColumn": 3,
+	"endLineNumber": 246,
+	"endColumn": 4
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "'}' expected.",
+	"source": "ts",
+	"startLineNumber": 248,
+	"startColumn": 12,
+	"endLineNumber": 248,
+	"endColumn": 13
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1381",
+	"severity": 8,
+	"message": "Unexpected token. Did you mean `{'}'}` or `&rbrace;`?",
+	"source": "ts",
+	"startLineNumber": 251,
+	"startColumn": 3,
+	"endLineNumber": 251,
+	"endColumn": 4
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1381",
+	"severity": 8,
+	"message": "Unexpected token. Did you mean `{'}'}` or `&rbrace;`?",
+	"source": "ts",
+	"startLineNumber": 252,
+	"startColumn": 1,
+	"endLineNumber": 252,
+	"endColumn": 2
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1109",
+	"severity": 8,
+	"message": "Expression expected.",
+	"source": "ts",
+	"startLineNumber": 255,
+	"startColumn": 3,
+	"endLineNumber": 255,
+	"endColumn": 9
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17014",
+	"severity": 8,
+	"message": "JSX fragment has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 256,
+	"startColumn": 5,
+	"endLineNumber": 256,
+	"endColumn": 7
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'main' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 264,
+	"startColumn": 8,
+	"endLineNumber": 264,
+	"endColumn": 12
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'section' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 266,
+	"startColumn": 10,
+	"endLineNumber": 266,
+	"endColumn": 17
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'div' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 270,
+	"startColumn": 12,
+	"endLineNumber": 270,
+	"endColumn": 15
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'motion.div' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 271,
+	"startColumn": 14,
+	"endLineNumber": 271,
+	"endColumn": 24
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'div' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 297,
+	"startColumn": 16,
+	"endLineNumber": 297,
+	"endColumn": 19
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 332,
+	"startColumn": 10,
+	"endLineNumber": 332,
+	"endColumn": 14,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 332,
+	"startColumn": 10,
+	"endLineNumber": 332,
+	"endColumn": 26,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 332,
+	"startColumn": 10,
+	"endLineNumber": 332,
+	"endColumn": 37,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 332,
+	"startColumn": 10,
+	"endLineNumber": 332,
+	"endColumn": 54,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 332,
+	"startColumn": 10,
+	"endLineNumber": 332,
+	"endColumn": 67,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 334,
+	"startColumn": 10,
+	"endLineNumber": 334,
+	"endColumn": 19,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 334,
+	"startColumn": 10,
+	"endLineNumber": 334,
+	"endColumn": 37,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 335,
+	"startColumn": 10,
+	"endLineNumber": 335,
+	"endColumn": 15,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 335,
+	"startColumn": 10,
+	"endLineNumber": 335,
+	"endColumn": 28,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 335,
+	"startColumn": 10,
+	"endLineNumber": 335,
+	"endColumn": 38,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 335,
+	"startColumn": 10,
+	"endLineNumber": 335,
+	"endColumn": 49,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 335,
+	"startColumn": 10,
+	"endLineNumber": 335,
+	"endColumn": 60,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 336,
+	"startColumn": 10,
+	"endLineNumber": 336,
+	"endColumn": 14,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 336,
+	"startColumn": 10,
+	"endLineNumber": 336,
+	"endColumn": 24,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 336,
+	"startColumn": 10,
+	"endLineNumber": 336,
+	"endColumn": 37,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "'}' expected.",
+	"source": "ts",
+	"startLineNumber": 342,
+	"startColumn": 13,
+	"endLineNumber": 342,
+	"endColumn": 14
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "'}' expected.",
+	"source": "ts",
+	"startLineNumber": 349,
+	"startColumn": 12,
+	"endLineNumber": 349,
+	"endColumn": 13
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1381",
+	"severity": 8,
+	"message": "Unexpected token. Did you mean `{'}'}` or `&rbrace;`?",
+	"source": "ts",
+	"startLineNumber": 354,
+	"startColumn": 3,
+	"endLineNumber": 354,
+	"endColumn": 4
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "'}' expected.",
+	"source": "ts",
+	"startLineNumber": 356,
+	"startColumn": 12,
+	"endLineNumber": 356,
+	"endColumn": 13
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1381",
+	"severity": 8,
+	"message": "Unexpected token. Did you mean `{'}'}` or `&rbrace;`?",
+	"source": "ts",
+	"startLineNumber": 359,
+	"startColumn": 3,
+	"endLineNumber": 359,
+	"endColumn": 4
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1381",
+	"severity": 8,
+	"message": "Unexpected token. Did you mean `{'}'}` or `&rbrace;`?",
+	"source": "ts",
+	"startLineNumber": 360,
+	"startColumn": 1,
+	"endLineNumber": 360,
+	"endColumn": 2
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1109",
+	"severity": 8,
+	"message": "Expression expected.",
+	"source": "ts",
+	"startLineNumber": 363,
+	"startColumn": 3,
+	"endLineNumber": 363,
+	"endColumn": 9
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17014",
+	"severity": 8,
+	"message": "JSX fragment has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 364,
+	"startColumn": 5,
+	"endLineNumber": 364,
+	"endColumn": 7
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'main' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 372,
+	"startColumn": 8,
+	"endLineNumber": 372,
+	"endColumn": 12
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'section' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 374,
+	"startColumn": 10,
+	"endLineNumber": 374,
+	"endColumn": 17
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'div' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 378,
+	"startColumn": 12,
+	"endLineNumber": 378,
+	"endColumn": 15
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'motion.div' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 379,
+	"startColumn": 14,
+	"endLineNumber": 379,
+	"endColumn": 24
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 441,
+	"startColumn": 10,
+	"endLineNumber": 441,
+	"endColumn": 14,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 441,
+	"startColumn": 10,
+	"endLineNumber": 441,
+	"endColumn": 26,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 441,
+	"startColumn": 10,
+	"endLineNumber": 441,
+	"endColumn": 37,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 441,
+	"startColumn": 10,
+	"endLineNumber": 441,
+	"endColumn": 54,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 441,
+	"startColumn": 10,
+	"endLineNumber": 441,
+	"endColumn": 67,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 443,
+	"startColumn": 10,
+	"endLineNumber": 443,
+	"endColumn": 19,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 443,
+	"startColumn": 10,
+	"endLineNumber": 443,
+	"endColumn": 37,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 444,
+	"startColumn": 10,
+	"endLineNumber": 444,
+	"endColumn": 15,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 444,
+	"startColumn": 10,
+	"endLineNumber": 444,
+	"endColumn": 28,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 444,
+	"startColumn": 10,
+	"endLineNumber": 444,
+	"endColumn": 38,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 444,
+	"startColumn": 10,
+	"endLineNumber": 444,
+	"endColumn": 49,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 444,
+	"startColumn": 10,
+	"endLineNumber": 444,
+	"endColumn": 60,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 445,
+	"startColumn": 10,
+	"endLineNumber": 445,
+	"endColumn": 14,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 445,
+	"startColumn": 10,
+	"endLineNumber": 445,
+	"endColumn": 24,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 445,
+	"startColumn": 10,
+	"endLineNumber": 445,
+	"endColumn": 37,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "'}' expected.",
+	"source": "ts",
+	"startLineNumber": 451,
+	"startColumn": 13,
+	"endLineNumber": 451,
+	"endColumn": 14
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "'}' expected.",
+	"source": "ts",
+	"startLineNumber": 458,
+	"startColumn": 12,
+	"endLineNumber": 458,
+	"endColumn": 13
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1381",
+	"severity": 8,
+	"message": "Unexpected token. Did you mean `{'}'}` or `&rbrace;`?",
+	"source": "ts",
+	"startLineNumber": 463,
+	"startColumn": 3,
+	"endLineNumber": 463,
+	"endColumn": 4
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "'}' expected.",
+	"source": "ts",
+	"startLineNumber": 465,
+	"startColumn": 12,
+	"endLineNumber": 465,
+	"endColumn": 13
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1381",
+	"severity": 8,
+	"message": "Unexpected token. Did you mean `{'}'}` or `&rbrace;`?",
+	"source": "ts",
+	"startLineNumber": 468,
+	"startColumn": 3,
+	"endLineNumber": 468,
+	"endColumn": 4
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1381",
+	"severity": 8,
+	"message": "Unexpected token. Did you mean `{'}'}` or `&rbrace;`?",
+	"source": "ts",
+	"startLineNumber": 469,
+	"startColumn": 1,
+	"endLineNumber": 469,
+	"endColumn": 2
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1109",
+	"severity": 8,
+	"message": "Expression expected.",
+	"source": "ts",
+	"startLineNumber": 472,
+	"startColumn": 3,
+	"endLineNumber": 472,
+	"endColumn": 9
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17014",
+	"severity": 8,
+	"message": "JSX fragment has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 473,
+	"startColumn": 5,
+	"endLineNumber": 473,
+	"endColumn": 7
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'main' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 481,
+	"startColumn": 8,
+	"endLineNumber": 481,
+	"endColumn": 12
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'section' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 483,
+	"startColumn": 10,
+	"endLineNumber": 483,
+	"endColumn": 17
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'div' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 487,
+	"startColumn": 12,
+	"endLineNumber": 487,
+	"endColumn": 15
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'motion.div' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 488,
+	"startColumn": 14,
+	"endLineNumber": 488,
+	"endColumn": 24
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'div' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 514,
+	"startColumn": 16,
+	"endLineNumber": 514,
+	"endColumn": 19
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 549,
+	"startColumn": 10,
+	"endLineNumber": 549,
+	"endColumn": 14,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 549,
+	"startColumn": 10,
+	"endLineNumber": 549,
+	"endColumn": 26,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 549,
+	"startColumn": 10,
+	"endLineNumber": 549,
+	"endColumn": 37,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 549,
+	"startColumn": 10,
+	"endLineNumber": 549,
+	"endColumn": 54,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 549,
+	"startColumn": 10,
+	"endLineNumber": 549,
+	"endColumn": 67,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 551,
+	"startColumn": 10,
+	"endLineNumber": 551,
+	"endColumn": 19,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 551,
+	"startColumn": 10,
+	"endLineNumber": 551,
+	"endColumn": 37,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 552,
+	"startColumn": 10,
+	"endLineNumber": 552,
+	"endColumn": 15,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 552,
+	"startColumn": 10,
+	"endLineNumber": 552,
+	"endColumn": 28,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 552,
+	"startColumn": 10,
+	"endLineNumber": 552,
+	"endColumn": 38,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 552,
+	"startColumn": 10,
+	"endLineNumber": 552,
+	"endColumn": 49,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 552,
+	"startColumn": 10,
+	"endLineNumber": 552,
+	"endColumn": 60,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 553,
+	"startColumn": 10,
+	"endLineNumber": 553,
+	"endColumn": 14,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 553,
+	"startColumn": 10,
+	"endLineNumber": 553,
+	"endColumn": 24,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 553,
+	"startColumn": 10,
+	"endLineNumber": 553,
+	"endColumn": 37,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "'}' expected.",
+	"source": "ts",
+	"startLineNumber": 559,
+	"startColumn": 13,
+	"endLineNumber": 559,
+	"endColumn": 14
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "'}' expected.",
+	"source": "ts",
+	"startLineNumber": 566,
+	"startColumn": 12,
+	"endLineNumber": 566,
+	"endColumn": 13
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1381",
+	"severity": 8,
+	"message": "Unexpected token. Did you mean `{'}'}` or `&rbrace;`?",
+	"source": "ts",
+	"startLineNumber": 571,
+	"startColumn": 3,
+	"endLineNumber": 571,
+	"endColumn": 4
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "'}' expected.",
+	"source": "ts",
+	"startLineNumber": 573,
+	"startColumn": 12,
+	"endLineNumber": 573,
+	"endColumn": 13
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1381",
+	"severity": 8,
+	"message": "Unexpected token. Did you mean `{'}'}` or `&rbrace;`?",
+	"source": "ts",
+	"startLineNumber": 576,
+	"startColumn": 3,
+	"endLineNumber": 576,
+	"endColumn": 4
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1381",
+	"severity": 8,
+	"message": "Unexpected token. Did you mean `{'}'}` or `&rbrace;`?",
+	"source": "ts",
+	"startLineNumber": 577,
+	"startColumn": 1,
+	"endLineNumber": 577,
+	"endColumn": 2
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1109",
+	"severity": 8,
+	"message": "Expression expected.",
+	"source": "ts",
+	"startLineNumber": 580,
+	"startColumn": 3,
+	"endLineNumber": 580,
+	"endColumn": 9
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17014",
+	"severity": 8,
+	"message": "JSX fragment has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 581,
+	"startColumn": 5,
+	"endLineNumber": 581,
+	"endColumn": 7
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'main' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 589,
+	"startColumn": 8,
+	"endLineNumber": 589,
+	"endColumn": 12
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'section' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 591,
+	"startColumn": 10,
+	"endLineNumber": 591,
+	"endColumn": 17
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'div' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 595,
+	"startColumn": 12,
+	"endLineNumber": 595,
+	"endColumn": 15
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'motion.div' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 596,
+	"startColumn": 14,
+	"endLineNumber": 596,
+	"endColumn": 24
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 658,
+	"startColumn": 10,
+	"endLineNumber": 658,
+	"endColumn": 14,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 658,
+	"startColumn": 10,
+	"endLineNumber": 658,
+	"endColumn": 26,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 658,
+	"startColumn": 10,
+	"endLineNumber": 658,
+	"endColumn": 37,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 658,
+	"startColumn": 10,
+	"endLineNumber": 658,
+	"endColumn": 54,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 658,
+	"startColumn": 10,
+	"endLineNumber": 658,
+	"endColumn": 67,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 660,
+	"startColumn": 10,
+	"endLineNumber": 660,
+	"endColumn": 19,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 660,
+	"startColumn": 10,
+	"endLineNumber": 660,
+	"endColumn": 37,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 661,
+	"startColumn": 10,
+	"endLineNumber": 661,
+	"endColumn": 15,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 661,
+	"startColumn": 10,
+	"endLineNumber": 661,
+	"endColumn": 28,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 661,
+	"startColumn": 10,
+	"endLineNumber": 661,
+	"endColumn": 38,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 661,
+	"startColumn": 10,
+	"endLineNumber": 661,
+	"endColumn": 49,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 661,
+	"startColumn": 10,
+	"endLineNumber": 661,
+	"endColumn": 60,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 662,
+	"startColumn": 10,
+	"endLineNumber": 662,
+	"endColumn": 14,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 662,
+	"startColumn": 10,
+	"endLineNumber": 662,
+	"endColumn": 24,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 662,
+	"startColumn": 10,
+	"endLineNumber": 662,
+	"endColumn": 37,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "'}' expected.",
+	"source": "ts",
+	"startLineNumber": 668,
+	"startColumn": 13,
+	"endLineNumber": 668,
+	"endColumn": 14
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "'}' expected.",
+	"source": "ts",
+	"startLineNumber": 675,
+	"startColumn": 12,
+	"endLineNumber": 675,
+	"endColumn": 13
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1381",
+	"severity": 8,
+	"message": "Unexpected token. Did you mean `{'}'}` or `&rbrace;`?",
+	"source": "ts",
+	"startLineNumber": 680,
+	"startColumn": 3,
+	"endLineNumber": 680,
+	"endColumn": 4
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "'}' expected.",
+	"source": "ts",
+	"startLineNumber": 682,
+	"startColumn": 12,
+	"endLineNumber": 682,
+	"endColumn": 13
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1381",
+	"severity": 8,
+	"message": "Unexpected token. Did you mean `{'}'}` or `&rbrace;`?",
+	"source": "ts",
+	"startLineNumber": 685,
+	"startColumn": 3,
+	"endLineNumber": 685,
+	"endColumn": 4
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1381",
+	"severity": 8,
+	"message": "Unexpected token. Did you mean `{'}'}` or `&rbrace;`?",
+	"source": "ts",
+	"startLineNumber": 686,
+	"startColumn": 1,
+	"endLineNumber": 686,
+	"endColumn": 2
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1109",
+	"severity": 8,
+	"message": "Expression expected.",
+	"source": "ts",
+	"startLineNumber": 689,
+	"startColumn": 3,
+	"endLineNumber": 689,
+	"endColumn": 9
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17014",
+	"severity": 8,
+	"message": "JSX fragment has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 690,
+	"startColumn": 5,
+	"endLineNumber": 690,
+	"endColumn": 7
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'main' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 698,
+	"startColumn": 8,
+	"endLineNumber": 698,
+	"endColumn": 12
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'section' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 700,
+	"startColumn": 10,
+	"endLineNumber": 700,
+	"endColumn": 17
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'div' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 704,
+	"startColumn": 12,
+	"endLineNumber": 704,
+	"endColumn": 15
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'motion.div' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 705,
+	"startColumn": 14,
+	"endLineNumber": 705,
+	"endColumn": 24
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'div' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 731,
+	"startColumn": 16,
+	"endLineNumber": 731,
+	"endColumn": 19
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 766,
+	"startColumn": 10,
+	"endLineNumber": 766,
+	"endColumn": 14,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 766,
+	"startColumn": 10,
+	"endLineNumber": 766,
+	"endColumn": 26,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 766,
+	"startColumn": 10,
+	"endLineNumber": 766,
+	"endColumn": 37,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 766,
+	"startColumn": 10,
+	"endLineNumber": 766,
+	"endColumn": 54,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 766,
+	"startColumn": 10,
+	"endLineNumber": 766,
+	"endColumn": 67,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 768,
+	"startColumn": 10,
+	"endLineNumber": 768,
+	"endColumn": 19,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 768,
+	"startColumn": 10,
+	"endLineNumber": 768,
+	"endColumn": 37,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 769,
+	"startColumn": 10,
+	"endLineNumber": 769,
+	"endColumn": 15,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 769,
+	"startColumn": 10,
+	"endLineNumber": 769,
+	"endColumn": 28,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 769,
+	"startColumn": 10,
+	"endLineNumber": 769,
+	"endColumn": 38,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 769,
+	"startColumn": 10,
+	"endLineNumber": 769,
+	"endColumn": 49,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 769,
+	"startColumn": 10,
+	"endLineNumber": 769,
+	"endColumn": 60,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 770,
+	"startColumn": 10,
+	"endLineNumber": 770,
+	"endColumn": 14,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 770,
+	"startColumn": 10,
+	"endLineNumber": 770,
+	"endColumn": 24,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 770,
+	"startColumn": 10,
+	"endLineNumber": 770,
+	"endColumn": 37,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "'}' expected.",
+	"source": "ts",
+	"startLineNumber": 776,
+	"startColumn": 13,
+	"endLineNumber": 776,
+	"endColumn": 14
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "'}' expected.",
+	"source": "ts",
+	"startLineNumber": 783,
+	"startColumn": 12,
+	"endLineNumber": 783,
+	"endColumn": 13
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1381",
+	"severity": 8,
+	"message": "Unexpected token. Did you mean `{'}'}` or `&rbrace;`?",
+	"source": "ts",
+	"startLineNumber": 788,
+	"startColumn": 3,
+	"endLineNumber": 788,
+	"endColumn": 4
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "'}' expected.",
+	"source": "ts",
+	"startLineNumber": 790,
+	"startColumn": 12,
+	"endLineNumber": 790,
+	"endColumn": 13
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1381",
+	"severity": 8,
+	"message": "Unexpected token. Did you mean `{'}'}` or `&rbrace;`?",
+	"source": "ts",
+	"startLineNumber": 793,
+	"startColumn": 3,
+	"endLineNumber": 793,
+	"endColumn": 4
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1381",
+	"severity": 8,
+	"message": "Unexpected token. Did you mean `{'}'}` or `&rbrace;`?",
+	"source": "ts",
+	"startLineNumber": 794,
+	"startColumn": 1,
+	"endLineNumber": 794,
+	"endColumn": 2
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1109",
+	"severity": 8,
+	"message": "Expression expected.",
+	"source": "ts",
+	"startLineNumber": 797,
+	"startColumn": 3,
+	"endLineNumber": 797,
+	"endColumn": 9
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17014",
+	"severity": 8,
+	"message": "JSX fragment has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 798,
+	"startColumn": 5,
+	"endLineNumber": 798,
+	"endColumn": 7
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'main' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 806,
+	"startColumn": 8,
+	"endLineNumber": 806,
+	"endColumn": 12
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'section' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 808,
+	"startColumn": 10,
+	"endLineNumber": 808,
+	"endColumn": 17
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'div' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 812,
+	"startColumn": 12,
+	"endLineNumber": 812,
+	"endColumn": 15
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'motion.div' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 813,
+	"startColumn": 14,
+	"endLineNumber": 813,
+	"endColumn": 24
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 875,
+	"startColumn": 10,
+	"endLineNumber": 875,
+	"endColumn": 14,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 875,
+	"startColumn": 10,
+	"endLineNumber": 875,
+	"endColumn": 26,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 875,
+	"startColumn": 10,
+	"endLineNumber": 875,
+	"endColumn": 37,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 875,
+	"startColumn": 10,
+	"endLineNumber": 875,
+	"endColumn": 54,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 875,
+	"startColumn": 10,
+	"endLineNumber": 875,
+	"endColumn": 67,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 877,
+	"startColumn": 10,
+	"endLineNumber": 877,
+	"endColumn": 19,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 877,
+	"startColumn": 10,
+	"endLineNumber": 877,
+	"endColumn": 37,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 878,
+	"startColumn": 10,
+	"endLineNumber": 878,
+	"endColumn": 15,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 878,
+	"startColumn": 10,
+	"endLineNumber": 878,
+	"endColumn": 28,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 878,
+	"startColumn": 10,
+	"endLineNumber": 878,
+	"endColumn": 38,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 878,
+	"startColumn": 10,
+	"endLineNumber": 878,
+	"endColumn": 49,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 878,
+	"startColumn": 10,
+	"endLineNumber": 878,
+	"endColumn": 60,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 879,
+	"startColumn": 10,
+	"endLineNumber": 879,
+	"endColumn": 14,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 879,
+	"startColumn": 10,
+	"endLineNumber": 879,
+	"endColumn": 24,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 879,
+	"startColumn": 10,
+	"endLineNumber": 879,
+	"endColumn": 37,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "'}' expected.",
+	"source": "ts",
+	"startLineNumber": 885,
+	"startColumn": 13,
+	"endLineNumber": 885,
+	"endColumn": 14
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "'}' expected.",
+	"source": "ts",
+	"startLineNumber": 892,
+	"startColumn": 12,
+	"endLineNumber": 892,
+	"endColumn": 13
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1381",
+	"severity": 8,
+	"message": "Unexpected token. Did you mean `{'}'}` or `&rbrace;`?",
+	"source": "ts",
+	"startLineNumber": 897,
+	"startColumn": 3,
+	"endLineNumber": 897,
+	"endColumn": 4
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "'}' expected.",
+	"source": "ts",
+	"startLineNumber": 899,
+	"startColumn": 12,
+	"endLineNumber": 899,
+	"endColumn": 13
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1381",
+	"severity": 8,
+	"message": "Unexpected token. Did you mean `{'}'}` or `&rbrace;`?",
+	"source": "ts",
+	"startLineNumber": 902,
+	"startColumn": 3,
+	"endLineNumber": 902,
+	"endColumn": 4
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1381",
+	"severity": 8,
+	"message": "Unexpected token. Did you mean `{'}'}` or `&rbrace;`?",
+	"source": "ts",
+	"startLineNumber": 903,
+	"startColumn": 1,
+	"endLineNumber": 903,
+	"endColumn": 2
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1109",
+	"severity": 8,
+	"message": "Expression expected.",
+	"source": "ts",
+	"startLineNumber": 906,
+	"startColumn": 3,
+	"endLineNumber": 906,
+	"endColumn": 9
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17014",
+	"severity": 8,
+	"message": "JSX fragment has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 907,
+	"startColumn": 5,
+	"endLineNumber": 907,
+	"endColumn": 7
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'main' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 915,
+	"startColumn": 8,
+	"endLineNumber": 915,
+	"endColumn": 12
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'section' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 917,
+	"startColumn": 10,
+	"endLineNumber": 917,
+	"endColumn": 17
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'div' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 921,
+	"startColumn": 12,
+	"endLineNumber": 921,
+	"endColumn": 15
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'motion.div' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 922,
+	"startColumn": 14,
+	"endLineNumber": 922,
+	"endColumn": 24
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'div' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 948,
+	"startColumn": 16,
+	"endLineNumber": 948,
+	"endColumn": 19
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 983,
+	"startColumn": 10,
+	"endLineNumber": 983,
+	"endColumn": 14,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 983,
+	"startColumn": 10,
+	"endLineNumber": 983,
+	"endColumn": 26,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 983,
+	"startColumn": 10,
+	"endLineNumber": 983,
+	"endColumn": 37,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 983,
+	"startColumn": 10,
+	"endLineNumber": 983,
+	"endColumn": 54,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 983,
+	"startColumn": 10,
+	"endLineNumber": 983,
+	"endColumn": 67,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 985,
+	"startColumn": 10,
+	"endLineNumber": 985,
+	"endColumn": 19,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 985,
+	"startColumn": 10,
+	"endLineNumber": 985,
+	"endColumn": 37,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 986,
+	"startColumn": 10,
+	"endLineNumber": 986,
+	"endColumn": 15,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 986,
+	"startColumn": 10,
+	"endLineNumber": 986,
+	"endColumn": 28,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 986,
+	"startColumn": 10,
+	"endLineNumber": 986,
+	"endColumn": 38,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 986,
+	"startColumn": 10,
+	"endLineNumber": 986,
+	"endColumn": 49,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 986,
+	"startColumn": 10,
+	"endLineNumber": 986,
+	"endColumn": 60,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 987,
+	"startColumn": 10,
+	"endLineNumber": 987,
+	"endColumn": 14,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 987,
+	"startColumn": 10,
+	"endLineNumber": 987,
+	"endColumn": 24,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 987,
+	"startColumn": 10,
+	"endLineNumber": 987,
+	"endColumn": 37,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "'}' expected.",
+	"source": "ts",
+	"startLineNumber": 993,
+	"startColumn": 13,
+	"endLineNumber": 993,
+	"endColumn": 14
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "'}' expected.",
+	"source": "ts",
+	"startLineNumber": 1000,
+	"startColumn": 12,
+	"endLineNumber": 1000,
+	"endColumn": 13
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1381",
+	"severity": 8,
+	"message": "Unexpected token. Did you mean `{'}'}` or `&rbrace;`?",
+	"source": "ts",
+	"startLineNumber": 1005,
+	"startColumn": 3,
+	"endLineNumber": 1005,
+	"endColumn": 4
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "'}' expected.",
+	"source": "ts",
+	"startLineNumber": 1007,
+	"startColumn": 12,
+	"endLineNumber": 1007,
+	"endColumn": 13
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1381",
+	"severity": 8,
+	"message": "Unexpected token. Did you mean `{'}'}` or `&rbrace;`?",
+	"source": "ts",
+	"startLineNumber": 1010,
+	"startColumn": 3,
+	"endLineNumber": 1010,
+	"endColumn": 4
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1381",
+	"severity": 8,
+	"message": "Unexpected token. Did you mean `{'}'}` or `&rbrace;`?",
+	"source": "ts",
+	"startLineNumber": 1011,
+	"startColumn": 1,
+	"endLineNumber": 1011,
+	"endColumn": 2
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1109",
+	"severity": 8,
+	"message": "Expression expected.",
+	"source": "ts",
+	"startLineNumber": 1014,
+	"startColumn": 3,
+	"endLineNumber": 1014,
+	"endColumn": 9
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17014",
+	"severity": 8,
+	"message": "JSX fragment has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 1015,
+	"startColumn": 5,
+	"endLineNumber": 1015,
+	"endColumn": 7
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'main' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 1023,
+	"startColumn": 8,
+	"endLineNumber": 1023,
+	"endColumn": 12
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'section' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 1025,
+	"startColumn": 10,
+	"endLineNumber": 1025,
+	"endColumn": 17
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'div' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 1029,
+	"startColumn": 12,
+	"endLineNumber": 1029,
+	"endColumn": 15
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'motion.div' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 1030,
+	"startColumn": 14,
+	"endLineNumber": 1030,
+	"endColumn": 24
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1092,
+	"startColumn": 10,
+	"endLineNumber": 1092,
+	"endColumn": 14,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1092,
+	"startColumn": 10,
+	"endLineNumber": 1092,
+	"endColumn": 26,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1092,
+	"startColumn": 10,
+	"endLineNumber": 1092,
+	"endColumn": 37,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1092,
+	"startColumn": 10,
+	"endLineNumber": 1092,
+	"endColumn": 54,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1092,
+	"startColumn": 10,
+	"endLineNumber": 1092,
+	"endColumn": 67,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1094,
+	"startColumn": 10,
+	"endLineNumber": 1094,
+	"endColumn": 19,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1094,
+	"startColumn": 10,
+	"endLineNumber": 1094,
+	"endColumn": 37,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1095,
+	"startColumn": 10,
+	"endLineNumber": 1095,
+	"endColumn": 15,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1095,
+	"startColumn": 10,
+	"endLineNumber": 1095,
+	"endColumn": 28,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1095,
+	"startColumn": 10,
+	"endLineNumber": 1095,
+	"endColumn": 38,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1095,
+	"startColumn": 10,
+	"endLineNumber": 1095,
+	"endColumn": 49,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1095,
+	"startColumn": 10,
+	"endLineNumber": 1095,
+	"endColumn": 60,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1096,
+	"startColumn": 10,
+	"endLineNumber": 1096,
+	"endColumn": 14,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1096,
+	"startColumn": 10,
+	"endLineNumber": 1096,
+	"endColumn": 24,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1096,
+	"startColumn": 10,
+	"endLineNumber": 1096,
+	"endColumn": 37,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "'}' expected.",
+	"source": "ts",
+	"startLineNumber": 1102,
+	"startColumn": 13,
+	"endLineNumber": 1102,
+	"endColumn": 14
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "'}' expected.",
+	"source": "ts",
+	"startLineNumber": 1109,
+	"startColumn": 12,
+	"endLineNumber": 1109,
+	"endColumn": 13
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1381",
+	"severity": 8,
+	"message": "Unexpected token. Did you mean `{'}'}` or `&rbrace;`?",
+	"source": "ts",
+	"startLineNumber": 1114,
+	"startColumn": 3,
+	"endLineNumber": 1114,
+	"endColumn": 4
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "'}' expected.",
+	"source": "ts",
+	"startLineNumber": 1116,
+	"startColumn": 12,
+	"endLineNumber": 1116,
+	"endColumn": 13
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1381",
+	"severity": 8,
+	"message": "Unexpected token. Did you mean `{'}'}` or `&rbrace;`?",
+	"source": "ts",
+	"startLineNumber": 1119,
+	"startColumn": 3,
+	"endLineNumber": 1119,
+	"endColumn": 4
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1381",
+	"severity": 8,
+	"message": "Unexpected token. Did you mean `{'}'}` or `&rbrace;`?",
+	"source": "ts",
+	"startLineNumber": 1120,
+	"startColumn": 1,
+	"endLineNumber": 1120,
+	"endColumn": 2
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1109",
+	"severity": 8,
+	"message": "Expression expected.",
+	"source": "ts",
+	"startLineNumber": 1123,
+	"startColumn": 3,
+	"endLineNumber": 1123,
+	"endColumn": 9
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17014",
+	"severity": 8,
+	"message": "JSX fragment has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 1124,
+	"startColumn": 5,
+	"endLineNumber": 1124,
+	"endColumn": 7
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'main' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 1132,
+	"startColumn": 8,
+	"endLineNumber": 1132,
+	"endColumn": 12
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'section' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 1134,
+	"startColumn": 10,
+	"endLineNumber": 1134,
+	"endColumn": 17
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'div' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 1138,
+	"startColumn": 12,
+	"endLineNumber": 1138,
+	"endColumn": 15
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'motion.div' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 1139,
+	"startColumn": 14,
+	"endLineNumber": 1139,
+	"endColumn": 24
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'div' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 1165,
+	"startColumn": 16,
+	"endLineNumber": 1165,
+	"endColumn": 19
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1200,
+	"startColumn": 10,
+	"endLineNumber": 1200,
+	"endColumn": 14,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1200,
+	"startColumn": 10,
+	"endLineNumber": 1200,
+	"endColumn": 26,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1200,
+	"startColumn": 10,
+	"endLineNumber": 1200,
+	"endColumn": 37,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1200,
+	"startColumn": 10,
+	"endLineNumber": 1200,
+	"endColumn": 54,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1200,
+	"startColumn": 10,
+	"endLineNumber": 1200,
+	"endColumn": 67,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1202,
+	"startColumn": 10,
+	"endLineNumber": 1202,
+	"endColumn": 19,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1202,
+	"startColumn": 10,
+	"endLineNumber": 1202,
+	"endColumn": 37,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1203,
+	"startColumn": 10,
+	"endLineNumber": 1203,
+	"endColumn": 15,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1203,
+	"startColumn": 10,
+	"endLineNumber": 1203,
+	"endColumn": 28,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1203,
+	"startColumn": 10,
+	"endLineNumber": 1203,
+	"endColumn": 38,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1203,
+	"startColumn": 10,
+	"endLineNumber": 1203,
+	"endColumn": 49,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1203,
+	"startColumn": 10,
+	"endLineNumber": 1203,
+	"endColumn": 60,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1204,
+	"startColumn": 10,
+	"endLineNumber": 1204,
+	"endColumn": 14,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1204,
+	"startColumn": 10,
+	"endLineNumber": 1204,
+	"endColumn": 24,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1204,
+	"startColumn": 10,
+	"endLineNumber": 1204,
+	"endColumn": 37,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "'}' expected.",
+	"source": "ts",
+	"startLineNumber": 1210,
+	"startColumn": 13,
+	"endLineNumber": 1210,
+	"endColumn": 14
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "'}' expected.",
+	"source": "ts",
+	"startLineNumber": 1217,
+	"startColumn": 12,
+	"endLineNumber": 1217,
+	"endColumn": 13
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1381",
+	"severity": 8,
+	"message": "Unexpected token. Did you mean `{'}'}` or `&rbrace;`?",
+	"source": "ts",
+	"startLineNumber": 1222,
+	"startColumn": 3,
+	"endLineNumber": 1222,
+	"endColumn": 4
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "'}' expected.",
+	"source": "ts",
+	"startLineNumber": 1224,
+	"startColumn": 12,
+	"endLineNumber": 1224,
+	"endColumn": 13
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1381",
+	"severity": 8,
+	"message": "Unexpected token. Did you mean `{'}'}` or `&rbrace;`?",
+	"source": "ts",
+	"startLineNumber": 1227,
+	"startColumn": 3,
+	"endLineNumber": 1227,
+	"endColumn": 4
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1381",
+	"severity": 8,
+	"message": "Unexpected token. Did you mean `{'}'}` or `&rbrace;`?",
+	"source": "ts",
+	"startLineNumber": 1228,
+	"startColumn": 1,
+	"endLineNumber": 1228,
+	"endColumn": 2
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1109",
+	"severity": 8,
+	"message": "Expression expected.",
+	"source": "ts",
+	"startLineNumber": 1231,
+	"startColumn": 3,
+	"endLineNumber": 1231,
+	"endColumn": 9
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17014",
+	"severity": 8,
+	"message": "JSX fragment has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 1232,
+	"startColumn": 5,
+	"endLineNumber": 1232,
+	"endColumn": 7
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'main' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 1240,
+	"startColumn": 8,
+	"endLineNumber": 1240,
+	"endColumn": 12
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'section' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 1242,
+	"startColumn": 10,
+	"endLineNumber": 1242,
+	"endColumn": 17
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'div' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 1246,
+	"startColumn": 12,
+	"endLineNumber": 1246,
+	"endColumn": 15
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'motion.div' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 1247,
+	"startColumn": 14,
+	"endLineNumber": 1247,
+	"endColumn": 24
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1309,
+	"startColumn": 10,
+	"endLineNumber": 1309,
+	"endColumn": 14,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1309,
+	"startColumn": 10,
+	"endLineNumber": 1309,
+	"endColumn": 26,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1309,
+	"startColumn": 10,
+	"endLineNumber": 1309,
+	"endColumn": 37,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1309,
+	"startColumn": 10,
+	"endLineNumber": 1309,
+	"endColumn": 54,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1309,
+	"startColumn": 10,
+	"endLineNumber": 1309,
+	"endColumn": 67,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1311,
+	"startColumn": 10,
+	"endLineNumber": 1311,
+	"endColumn": 19,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1311,
+	"startColumn": 10,
+	"endLineNumber": 1311,
+	"endColumn": 37,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1312,
+	"startColumn": 10,
+	"endLineNumber": 1312,
+	"endColumn": 15,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1312,
+	"startColumn": 10,
+	"endLineNumber": 1312,
+	"endColumn": 28,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1312,
+	"startColumn": 10,
+	"endLineNumber": 1312,
+	"endColumn": 38,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1312,
+	"startColumn": 10,
+	"endLineNumber": 1312,
+	"endColumn": 49,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1312,
+	"startColumn": 10,
+	"endLineNumber": 1312,
+	"endColumn": 60,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1313,
+	"startColumn": 10,
+	"endLineNumber": 1313,
+	"endColumn": 14,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1313,
+	"startColumn": 10,
+	"endLineNumber": 1313,
+	"endColumn": 24,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1313,
+	"startColumn": 10,
+	"endLineNumber": 1313,
+	"endColumn": 37,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "'}' expected.",
+	"source": "ts",
+	"startLineNumber": 1319,
+	"startColumn": 13,
+	"endLineNumber": 1319,
+	"endColumn": 14
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "'}' expected.",
+	"source": "ts",
+	"startLineNumber": 1326,
+	"startColumn": 12,
+	"endLineNumber": 1326,
+	"endColumn": 13
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1381",
+	"severity": 8,
+	"message": "Unexpected token. Did you mean `{'}'}` or `&rbrace;`?",
+	"source": "ts",
+	"startLineNumber": 1331,
+	"startColumn": 3,
+	"endLineNumber": 1331,
+	"endColumn": 4
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "'}' expected.",
+	"source": "ts",
+	"startLineNumber": 1333,
+	"startColumn": 12,
+	"endLineNumber": 1333,
+	"endColumn": 13
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1381",
+	"severity": 8,
+	"message": "Unexpected token. Did you mean `{'}'}` or `&rbrace;`?",
+	"source": "ts",
+	"startLineNumber": 1336,
+	"startColumn": 3,
+	"endLineNumber": 1336,
+	"endColumn": 4
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1381",
+	"severity": 8,
+	"message": "Unexpected token. Did you mean `{'}'}` or `&rbrace;`?",
+	"source": "ts",
+	"startLineNumber": 1337,
+	"startColumn": 1,
+	"endLineNumber": 1337,
+	"endColumn": 2
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1109",
+	"severity": 8,
+	"message": "Expression expected.",
+	"source": "ts",
+	"startLineNumber": 1340,
+	"startColumn": 3,
+	"endLineNumber": 1340,
+	"endColumn": 9
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17014",
+	"severity": 8,
+	"message": "JSX fragment has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 1341,
+	"startColumn": 5,
+	"endLineNumber": 1341,
+	"endColumn": 7
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'main' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 1349,
+	"startColumn": 8,
+	"endLineNumber": 1349,
+	"endColumn": 12
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'section' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 1351,
+	"startColumn": 10,
+	"endLineNumber": 1351,
+	"endColumn": 17
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'div' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 1355,
+	"startColumn": 12,
+	"endLineNumber": 1355,
+	"endColumn": 15
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'motion.div' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 1356,
+	"startColumn": 14,
+	"endLineNumber": 1356,
+	"endColumn": 24
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "17008",
+	"severity": 8,
+	"message": "JSX element 'div' has no corresponding closing tag.",
+	"source": "ts",
+	"startLineNumber": 1382,
+	"startColumn": 16,
+	"endLineNumber": 1382,
+	"endColumn": 19
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2322",
+	"severity": 8,
+	"message": "Type 'ForwardRefExoticComponent<ButtonProps & RefAttributes<HTMLButtonElement>>' is not assignable to type 'ReactNode'.",
+	"source": "ts",
+	"startLineNumber": 1416,
+	"startColumn": 10,
+	"endLineNumber": 1416,
+	"endColumn": 16,
+	"relatedInformation": [
+		{
+			"startLineNumber": 1416,
+			"startColumn": 10,
+			"endLineNumber": 1416,
+			"endColumn": 16,
+			"message": "Did you mean to call this expression?",
+			"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx"
+		}
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1417,
+	"startColumn": 10,
+	"endLineNumber": 1417,
+	"endColumn": 14,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1417,
+	"startColumn": 10,
+	"endLineNumber": 1417,
+	"endColumn": 26,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1417,
+	"startColumn": 10,
+	"endLineNumber": 1417,
+	"endColumn": 37,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1417,
+	"startColumn": 10,
+	"endLineNumber": 1417,
+	"endColumn": 54,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1417,
+	"startColumn": 10,
+	"endLineNumber": 1417,
+	"endColumn": 67,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2322",
+	"severity": 8,
+	"message": "Type 'ForwardRefExoticComponent<HTMLAttributes<HTMLDivElement> & RefAttributes<HTMLDivElement>>' is not assignable to type 'ReactNode'.",
+	"source": "ts",
+	"startLineNumber": 1417,
+	"startColumn": 10,
+	"endLineNumber": 1417,
+	"endColumn": 79,
+	"relatedInformation": [
+		{
+			"startLineNumber": 1417,
+			"startColumn": 10,
+			"endLineNumber": 1417,
+			"endColumn": 79,
+			"message": "Did you mean to call this expression?",
+			"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx"
+		}
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2322",
+	"severity": 8,
+	"message": "Type '({ className, variant, ...props }: BadgeProps) => Element' is not assignable to type 'ReactNode'.",
+	"source": "ts",
+	"startLineNumber": 1418,
+	"startColumn": 10,
+	"endLineNumber": 1418,
+	"endColumn": 15,
+	"relatedInformation": [
+		{
+			"startLineNumber": 1418,
+			"startColumn": 10,
+			"endLineNumber": 1418,
+			"endColumn": 15,
+			"message": "Did you mean to call this expression?",
+			"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx"
+		}
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1419,
+	"startColumn": 10,
+	"endLineNumber": 1419,
+	"endColumn": 19,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1419,
+	"startColumn": 10,
+	"endLineNumber": 1419,
+	"endColumn": 37,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2322",
+	"severity": 8,
+	"message": "Type 'ForwardRefExoticComponent<HoverCardTriggerProps & RefAttributes<HTMLAnchorElement>>' is not assignable to type 'ReactNode'.",
+	"source": "ts",
+	"startLineNumber": 1419,
+	"startColumn": 10,
+	"endLineNumber": 1419,
+	"endColumn": 55,
+	"relatedInformation": [
+		{
+			"startLineNumber": 1419,
+			"startColumn": 10,
+			"endLineNumber": 1419,
+			"endColumn": 55,
+			"message": "Did you mean to call this expression?",
+			"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx"
+		}
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1420,
+	"startColumn": 10,
+	"endLineNumber": 1420,
+	"endColumn": 15,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1420,
+	"startColumn": 10,
+	"endLineNumber": 1420,
+	"endColumn": 28,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1420,
+	"startColumn": 10,
+	"endLineNumber": 1420,
+	"endColumn": 38,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1420,
+	"startColumn": 10,
+	"endLineNumber": 1420,
+	"endColumn": 49,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1420,
+	"startColumn": 10,
+	"endLineNumber": 1420,
+	"endColumn": 60,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2322",
+	"severity": 8,
+	"message": "Type 'ForwardRefExoticComponent<TdHTMLAttributes<HTMLTableCellElement> & RefAttributes<HTMLTableCellElement>>' is not assignable to type 'ReactNode'.",
+	"source": "ts",
+	"startLineNumber": 1420,
+	"startColumn": 10,
+	"endLineNumber": 1420,
+	"endColumn": 71,
+	"relatedInformation": [
+		{
+			"startLineNumber": 1420,
+			"startColumn": 10,
+			"endLineNumber": 1420,
+			"endColumn": 71,
+			"message": "Did you mean to call this expression?",
+			"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx"
+		}
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1421,
+	"startColumn": 10,
+	"endLineNumber": 1421,
+	"endColumn": 14,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1421,
+	"startColumn": 10,
+	"endLineNumber": 1421,
+	"endColumn": 24,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2695",
+	"severity": 8,
+	"message": "Left side of comma operator is unused and has no side effects.",
+	"source": "ts",
+	"startLineNumber": 1421,
+	"startColumn": 10,
+	"endLineNumber": 1421,
+	"endColumn": 37,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2322",
+	"severity": 8,
+	"message": "Type 'ForwardRefExoticComponent<Omit<TabsContentProps & RefAttributes<HTMLDivElement>, \"ref\"> & RefAttributes<HTMLDivElement>>' is not assignable to type 'ReactNode'.",
+	"source": "ts",
+	"startLineNumber": 1421,
+	"startColumn": 10,
+	"endLineNumber": 1421,
+	"endColumn": 50,
+	"relatedInformation": [
+		{
+			"startLineNumber": 1421,
+			"startColumn": 10,
+			"endLineNumber": 1421,
+			"endColumn": 50,
+			"message": "Did you mean to call this expression?",
+			"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx"
+		}
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2322",
+	"severity": 8,
+	"message": "Type 'ForwardRefExoticComponent<Omit<ScrollAreaProps & RefAttributes<HTMLDivElement>, \"ref\"> & RefAttributes<HTMLDivElement>>' is not assignable to type 'ReactNode'.",
+	"source": "ts",
+	"startLineNumber": 1422,
+	"startColumn": 10,
+	"endLineNumber": 1422,
+	"endColumn": 20,
+	"relatedInformation": [
+		{
+			"startLineNumber": 1422,
+			"startColumn": 10,
+			"endLineNumber": 1422,
+			"endColumn": 20,
+			"message": "Did you mean to call this expression?",
+			"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx"
+		}
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2322",
+	"severity": 8,
+	"message": "Type 'ForwardRefExoticComponent<Omit<SeparatorProps & RefAttributes<HTMLDivElement>, \"ref\"> & RefAttributes<HTMLDivElement>>' is not assignable to type 'ReactNode'.",
+	"source": "ts",
+	"startLineNumber": 1423,
+	"startColumn": 10,
+	"endLineNumber": 1423,
+	"endColumn": 19,
+	"relatedInformation": [
+		{
+			"startLineNumber": 1423,
+			"startColumn": 10,
+			"endLineNumber": 1423,
+			"endColumn": 19,
+			"message": "Did you mean to call this expression?",
+			"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx"
+		}
+	]
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "2322",
+	"severity": 8,
+	"message": "Type '(<Props, TagName extends string = \"div\">(Component: string | TagName | ComponentType<Props>, { forwardMotionProps }?: { forwardMotionProps: boolean; } | undefined) => TagName extends \"symbol\" | ... 54 more ... | keyof HTMLElements ? DOMMotionComponents[TagName] : ComponentType<...>) & HTMLMotionComponents & SVGMotio...' is not assignable to type 'ReactNode'.",
+	"source": "ts",
+	"startLineNumber": 1424,
+	"startColumn": 8,
+	"endLineNumber": 1424,
+	"endColumn": 18
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "'}' expected.",
+	"source": "ts",
+	"startLineNumber": 1427,
+	"startColumn": 13,
+	"endLineNumber": 1427,
+	"endColumn": 14
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "'}' expected.",
+	"source": "ts",
+	"startLineNumber": 1434,
+	"startColumn": 12,
+	"endLineNumber": 1434,
+	"endColumn": 13
+},{
+	"resource": "/c:/personal/LandingPage Affialte SEO/CharterVilliersJets/src/pages/index.tsx",
+	"owner": "typescript",
+	"code": "1005",
+	"severity": 8,
+	"message": "'</' expected.",
+	"source": "ts",
+	"startLineNumber": 1437,
+	"startColumn": 31,
+	"endLineNumber": 1437,
+	"endColumn": 31
+}]
